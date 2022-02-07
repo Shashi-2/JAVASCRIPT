@@ -1,0 +1,51 @@
+body{
+    background-image: url("");
+    background-color: rgb(193, 181, 218);
+    background-position: -10px;
+    background-size: cover;
+    box-shadow: 200px 200px cyan;
+}
+
+.one{
+    background-image:"20200621_111827.jpg";
+    border-radius: 13px;
+    border-style:groove;
+    color:black;
+    border:5px;
+    margin:10px;
+    padding:13px;
+    box-shadow: 5px 5px cyan;
+    font-family: fantasy;
+}
+
+center{
+    padding:10px;
+
+}
+
+#a{
+    margin:2px;
+}
+
+#b{
+
+    border-radius: 30px;
+    border-style:groove;
+    margin-top:10%;
+    margin-left:40%;
+    margin-right:40%;
+    padding-bottom: 20px;
+    background-color:rgb(31, 73, 11);
+}
+
+input{
+    color:black;
+    font-size: 15px;
+    font-family: fantasy;
+    background-color:cornflowerblue;
+    border-radius: 30px;
+    border-style:double;
+    padding-left:20px;
+    padding-right:12px;
+    margin:20px;
+}
